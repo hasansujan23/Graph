@@ -48,8 +48,6 @@ int unionSet(int x,int y){
 
 int main()
 {
-    //freopen("input.txt","r",stdin);
-    //freopen("output.txt","w",stdout);
     int t;
     cin>>t;
     for(int i=0;i<t;i++){
